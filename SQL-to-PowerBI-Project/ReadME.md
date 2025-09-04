@@ -31,12 +31,11 @@ It showcases the end-to-end workflow of a data analyst:
 
 ---
 
-## 🗂 Repository Structure
-- `sql/` → SQL queries used for extraction and KPIs  
-- `visuals/` → Power BI dashboard screenshots  
-- `README.md` → Project documentation  
+## 📂 Power BI Template
+You can download and explore the interactive Power BI report using this template:  
+[📊 PBI Report](review_pbi_report.pbit)
 
----
+⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
 ## 🔍 Example SQL Query
 ```sql
