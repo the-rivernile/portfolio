@@ -33,11 +33,10 @@ It showcases the end-to-end workflow of a data analyst:
 
 ## 📂 Power BI Template
 You can download and explore the interactive Power BI report using this template:  
-[📊 PBI Report](SQL-to-PowerBI-Project/report/review_pbi_report.pbit)
+[📊 PBI Report](report/review_pbi_report.pbit)
 
-⚠️ Requires [Power BI Desktop](report/review_pbi_report.pbit) to open.
+⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
-## 🔍 Example SQL Query
 ```sql
 SELECT 
     DATE_TRUNC('year', review_date) AS review_year,
