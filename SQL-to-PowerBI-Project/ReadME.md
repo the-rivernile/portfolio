@@ -37,6 +37,7 @@ You can download and explore the interactive Power BI report using this template
 
 ⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
+## 🔍 Example SQL Query
 ```sql
 SELECT 
     DATE_TRUNC('year', review_date) AS review_year,
