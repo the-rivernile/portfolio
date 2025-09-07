@@ -31,7 +31,8 @@ It showcases the end-to-end workflow of a data analyst:
 
 ---
 
-## 📅 [Original Dataset](https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025)
+## 📅 [Dataset](https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025)
+The above data set consists of multilingual reviews by PRATYUSH PURI
 
 
 ## 📂 Power BI Template
