@@ -7,7 +7,7 @@ It brings together projects where I apply concepts I’ve studied — from query
 The goal of this repository is not just to showcase completed work, but also to reflect the skills I’m building as I progress toward a career in data analysis and data science.
 
 🔹 Featured Projects
-1️⃣ SQL to Power BI Dashboard
+ SQL to Power BI Dashboard
 
 ## 📂 [View Project](SQL-to-PowerBI-Project)
 
@@ -19,7 +19,7 @@ Packaged into a Power BI template (.pbit) for sharing
 
 Includes visuals and documentation
 
-2️⃣ Jellyfin Reverse Proxy Setup
+ Jellyfin Reverse Proxy Setup
 
 ## 📂 [View Project](jellyfin-reverse-proxy-setup)
 
