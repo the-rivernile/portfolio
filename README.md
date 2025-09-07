@@ -27,7 +27,7 @@ Configured a reverse proxy with Nginx to securely access a self-hosted Jellyfin 
 
 Demonstrates applied learning in networking and server setup
 
-🚀 What’s Next
+## 🚀 What’s Next
 
 This portfolio is always growing. Upcoming projects will explore:
 
