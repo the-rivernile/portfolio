@@ -9,7 +9,7 @@ The goal of this repository is not just to showcase completed work, but also to 
 🔹 Featured Projects
 1️⃣ SQL to Power BI Dashboard
 
-## 📂 [View Project] ()
+## 📂 [View Project](SQL-to-PowerBI-Project)
 
 Wrote SQL queries to extract and transform data
 
@@ -21,7 +21,7 @@ Includes visuals and documentation
 
 2️⃣ Jellyfin Reverse Proxy Setup
 
-## 📂 [View Project] (jellyfin-reverse-proxy-setup)
+## 📂 [View Project](jellyfin-reverse-proxy-setup)
 
 Configured a reverse proxy with Nginx to securely access a self-hosted Jellyfin server
 
@@ -41,4 +41,4 @@ Deeper projects in data storytelling and visualization
 
 📫 Let’s Connect
 
-## 💼 [LinkedIn] (https://www.linkedin.com/in/nathaniel-rivera-42445b260/)
+## 💼 [LinkedIn](https://www.linkedin.com/in/nathaniel-rivera-42445b260/)
