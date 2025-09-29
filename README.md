@@ -2,7 +2,7 @@
 📊 Data Analytics Portfolio
 
 Welcome! This portfolio serves as a testament to my learning journey and growth in data analytics.
-It brings together projects where I apply concepts I’ve studied — from querying and cleaning data, to building dashboards that communicate insights, to exploring automation with Python.
+It brings together projects where I apply concepts I’ve studied, from querying and cleaning data, to building dashboards that communicate insights, to exploring automation with Python.
 
 The goal of this repository is not just to showcase completed work, but also to reflect the skills I’m building as I progress toward a career in data analysis and data science.
 
