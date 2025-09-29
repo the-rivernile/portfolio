@@ -29,7 +29,7 @@ Demonstrates applied learning in networking and server setup
 
 ## 🚀 What’s Next
 
-This portfolio is always growing. Upcoming projects I will explore:
+This portfolio is always growing. Upcoming projects I want to explore:
 
 Pulling data from APIs using Python and network requests
 
