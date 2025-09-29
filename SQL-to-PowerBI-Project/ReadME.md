@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project demonstrates how I used **SQL** to extract and transform data, then built a **Power BI dashboard** to visualize key business insights.  
-It showcases the end-to-end workflow of a data analyst:
+It showcases the end to end workflow of a data analyst:
 1. Writing SQL queries to answer business questions.
 2. Exporting cleaned datasets.
 3. Building KPI cards and visualizations in Power BI.
