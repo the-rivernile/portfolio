@@ -6,7 +6,7 @@
 
 This project showcases data given to me secondhand and how I transformed, cleaned, loaded, and manipulated said data to provide meaningful insights on sales history for a small online retailer.
 
-The overall pipeline went as flow goes as follows
+The overall flow goes as follows
 
  jupyternotebook --> bigquery --> dbt--> VSCODE(streamlit) 
  
