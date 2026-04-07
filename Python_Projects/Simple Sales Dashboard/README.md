@@ -15,7 +15,7 @@ The overall pipeline went as flow goes as follows
 - dbt/SQL(Data Cleaning/Aggregating).
 - Small Business insight reporting.
 
-📅 Dataset 
+## 📅 Dataset 
 While the raw dataset contains critical info which I am unable to share the following are attributes:
 Date of sale,Time of sale,Date of listing,Bundle,Bundle - amount of items,Buyer,Brand,Description,Size,Item price,Buyer shipping cost,Total,USPS Cost,Depop fee,Depop Payments fee,Buyer Marketplace Fee,Boosting fee,Payment type,Estimated payout date,Payout arrival date,Category,Name,Address Line 1,Address Line 2,City,State,Post Code,Country,US Sales tax,Refunded to buyer amount,Fees refunded to seller.
 
