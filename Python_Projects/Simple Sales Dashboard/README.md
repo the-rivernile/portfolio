@@ -22,3 +22,7 @@ Date of sale,Time of sale,Date of listing,Bundle,Bundle - amount of items,Buyer,
 
 <sub>the data came to me in a structured format as a csv but consisted of multiple null and duplicate values </sub>
 
+## The Scripts for each section of the workflow can be found below
+
+
+
