@@ -13,6 +13,7 @@ The overall pipeline went as flow goes as follows
 ## 🧰 Tools and Skills 
 - jupyternotebook/python(extraction/manipulation/exporting).
 - dbt/SQL(Data Cleaning/Aggregating).
+- bigquery(datawarehousing/querying)
 - Small Business insight reporting.
 
 ## 📅 Dataset 
