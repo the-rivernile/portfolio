@@ -24,5 +24,10 @@ Date of sale,Time of sale,Date of listing,Bundle,Bundle - amount of items,Buyer,
 
 ## The Scripts for each section of the workflow can be found below
 
+- [jnotebook load](https://github.com/the-rivernile/portfolio/blob/main/Python_Projects/Simple%20Sales%20Dashboard/sales%20dash/ael_data.ipynb)
+- [dbt models](https://github.com/the-rivernile/portfolio/tree/main/Python_Projects/Simple%20Sales%20Dashboard/sales%20dash/models)
+- [UI script](https://github.com/the-rivernile/portfolio/blob/main/Python_Projects/Simple%20Sales%20Dashboard/sales%20dash/app.py)
+- [Inventory Proof of Concept](https://github.com/the-rivernile/portfolio/blob/main/Python_Projects/Simple%20Sales%20Dashboard/sales%20dash/pages/Update%20Inventory.py)
+  
 
 
