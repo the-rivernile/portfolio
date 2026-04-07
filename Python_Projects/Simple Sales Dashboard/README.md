@@ -11,9 +11,9 @@ The overall pipeline went as flow goes as follows
  jupyternotebook --> bigquery --> dbt--> VSCODE(streamlit) 
  
 ## 🧰 Tools and Skills 
-jupyternotebook/python(extraction/manipulation/exporting)
-dbt/SQL(Data Cleaning/Aggregating)
-Small Business insight reporting
+1.jupyternotebook/python(extraction/manipulation/exporting)
+2.dbt/SQL(Data Cleaning/Aggregating)
+3.Small Business insight reporting
 
 📅 Dataset 
 While the raw dataset contains critical info which I am unable to share the following are attributes:
