@@ -30,7 +30,7 @@ Date of sale,Time of sale,Date of listing,Bundle,Bundle - amount of items,Buyer,
 - [Inventory Proof of Concept](https://github.com/the-rivernile/portfolio/blob/main/Python_Projects/Simple%20Sales%20Dashboard/sales%20dash/pages/Update%20Inventory.py)
 
 📺 UI Video Overview
-[Video](
+[Video](https://youtu.be/HkW-UmOG6I4)
   
 
 
