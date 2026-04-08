@@ -6,26 +6,12 @@ It brings together projects where I apply concepts I’ve studied, from querying
 
 The goal of this repository is not just to showcase completed work, but also to reflect the skills I’m building as I progress toward a career in data analysis and data science.
 
-🔹 Featured Projects
- SQL to Power BI Dashboard
+## Featured Projects
+ - [SQL to Power BI Dashboard](https://github.com/the-rivernile/portfolio/tree/main/SQL-to-PowerBI-Project)
+ - [Sales Dashboard](https://github.com/the-rivernile/portfolio/tree/main/Python_Projects/Simple%20Sales%20Dashboard)
+ - [ETL Project](https://github.com/the-rivernile/portfolio/tree/main/Python_Projects/ETL%20PROJECT)
 
-## 📂 [View Project](SQL-to-PowerBI-Project)
 
-Wrote SQL queries to extract and transform data
-
-Designed KPI cards and interactive Power BI visuals
-
-Packaged into a Power BI template (.pbit) for sharing
-
-Includes visuals and documentation
-
- Jellyfin Reverse Proxy Setup
-
-## 📂 [View Project](jellyfin-reverse-proxy-setup)
-
-Configured a reverse proxy with Nginx to securely access a self-hosted Jellyfin server
-
-Demonstrates applied learning in networking and server setup
 
 ## 🚀 What’s Next
 
