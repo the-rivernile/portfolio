@@ -1,4 +1,4 @@
-# 📈 Intraday Stock Data ETL Pipeline
+#  Intraday Stock Data ETL Pipeline
 
 A scheduled ETL pipeline built in Python that pulls hourly stock data from the 
 stockdata.org API, preprocesses it, and loads it into a local PostgreSQL database 
@@ -20,7 +20,7 @@ automatically on market hours.
 
 ---
 
-## 🏗️ Pipeline Architecture
+##  Pipeline Architecture
 ```
 stockdata.org API → hourly_stock_data() → data_preprocessing() → PostgreSQL DB
                                                   ↑
@@ -29,7 +29,7 @@ stockdata.org API → hourly_stock_data() → data_preprocessing() → PostgreSQ
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Extract** — Sends a GET request to the stockdata.org API for hourly OHLCV data on a given ticker
 2. **Transform** — Normalizes the JSON response into a flat DataFrame and converts timestamps to US/Eastern time
@@ -38,21 +38,21 @@ stockdata.org API → hourly_stock_data() → data_preprocessing() → PostgreSQ
 
 ---
 
-## 💡 Challenges
+##  Challenges
 
 - Handling API responses that returned empty data for certain tickers/dates without breaking the pipeline
 - Managing timezone-aware vs timezone-naive datetime objects in Pandas during preprocessing
 
 ---
 
-## 🤖 Where I Used LLMs
+##  Where I Used LLMs
 
 - Debugging the timezone conversion stripping tz info unexpectedly
 - Understanding the difference between `if_exists='replace'` vs `append` in `df.to_sql()`
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Switch from `if_exists='replace'` to `append` with deduplication logic to preserve historical data
 - Add error logging to a file instead of just printing to console
@@ -61,14 +61,14 @@ stockdata.org API → hourly_stock_data() → data_preprocessing() → PostgreSQ
 
 ---
 
-## 📦 Requirements
+##  Requirements
 ```bash
 pip install pandas requests sqlalchemy psycopg2 apscheduler
 ```
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 API token and database credentials are stored as environment variables and not 
 included in this repository.
